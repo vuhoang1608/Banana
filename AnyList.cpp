@@ -3,7 +3,7 @@ Tran, Hoang
 Le, Duy
 Nguyen. Anh
 
-CS A200
+CS A2000
 Sep 07, 2017
 
 Lab 2
